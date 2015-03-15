@@ -22,7 +22,8 @@ d> Learned to delete files/and, also, how to delete whole entire folder director
 However, this is just merely the beginning of my initial learning process; 
 as there is still so much more to go learn. In particular, I don't know how to...
 
-a> fork/branch
-b> use the command line
-c> collaborate
-d> -etc.
+a> merge
+b> fork/branch
+c> use the command line
+d> collaborate
+(...and, who knows what I may have left out?! Etc.)
