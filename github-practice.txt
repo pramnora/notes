@@ -1,26 +1,28 @@
-Sat 14th Mar 2015 22:16 PM GMT
+Created: Sat 14th Mar 2015 22:16 PM GMT
+Updated: Sun 15th Mar 2015 01:27 AM GMT
 
-I find myself being absolutely desperate to go work out how to learn to use both Git/GitHub.
+I am keen to learn how to use both 'Git/GitHub' most effectively; 
+because nearly all programmers now-a-days tend to use it.
 
-All I really have to do is make up my mind to get on with learning it.
+So far today, I went and signed into my online GitHub a/c.; used the web browser based GUI to...
 
-The trouble is there are, literally, millions and millions of web pages out there to go and discover; 
-and, because I suffer from ADD/Attention Deficit Disorder; therefore, I find it really hard to keep 
-my attention being fully focussed...?!
-
-Nevertheless, I'm pretty damn sure I'll get it in the end; because when I'm seriously interested in learning something;
-be it anything at all whatsoever; then, I don't easily give up...whether it takes me...seconds/minutes/hours/
-a day/days/weeks/months/years/decades/-etc.
-
-So far today, I went and signed into my online GitHub a/c.; and, using the GUI I went and...
-a> Created a few repos
+a> Create a few repos
 b> Added some files into each repo I created
 c> Practiced deleting a file from a repo
 d> I also created a Gist
 
-Later on, I went and downloaded what is the 'latest' version of GitHub for Windows 2.0. Then, I...
+Later on, I went and downloaded what is the 'latest' version of GitHub for Windows 2.0. Then, on my home computer...
+
 a> Created more repos (folders)
 b> Learned to add files into these 
 c> Learned to sync between folders/files being listed on my home computer/and, the remote GitHub server directory 
 that is viewable inside of the web browser
 d> Learned to delete files/and, also, how to delete whole entire folder directories (even if they contain files inside)
+
+However, this is just merely the beginning of my initial learning process; 
+as there is still so much more to go learn. In particular, I don't know how to...
+
+a> fork/branch
+b> use the command line
+c> collaborate
+d> -etc.
