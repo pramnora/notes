@@ -1,0 +1,10 @@
+Created: Sun 15th Mar 2015 21:24 PM GMT
+Updated: Sun 15th Mar 2015 21:24 PM GMT
+
+Right now, I'm using what is a FREE GitHub a/c.; meaning the data being kept here isn't 'private';
+in order to keep your data 'private'...then, you would have to 'pay' for such privellage.
+
+This means that anybody can both view/steal my code if they wish to...?!
+On the one hand, this sort of lack of security makes me feel somewhat 'scared' 
+to go and upload anything I believe to me most truly worthwhile;
+but, also, at the same time, I do appreciate the beauty of being a part of Open Source.
