@@ -26,4 +26,4 @@ a> merge
 b> fork/branch
 c> use the command line
 d> collaborate
-(...and, who knows what I may have left out?! Etc.)
+(...and, who knows whatever else I...as somebody who is a total 'beginner'...might have left out?! Etc.)
