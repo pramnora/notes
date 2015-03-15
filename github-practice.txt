@@ -1,0 +1,26 @@
+Sat 14th Mar 2015 22:16 PM GMT
+
+I find myself being absolutely desperate to go work out how to learn to use both Git/GitHub.
+
+All I really have to do is make up my mind to get on with learning it.
+
+The trouble is there are, literally, millions and millions of web pages out there to go and discover; 
+and, because I suffer from ADD/Attention Deficit Disorder; therefore, I find it really hard to keep 
+my attention being fully focussed...?!
+
+Nevertheless, I'm pretty damn sure I'll get it in the end; because when I'm seriously interested in learning something;
+be it anything at all whatsoever; then, I don't easily give up...whether it takes me...seconds/minutes/hours/
+a day/days/weeks/months/years/decades/-etc.
+
+So far today, I went and signed into my online GitHub a/c.; and, using the GUI I went and...
+a> Created a few repos
+b> Added some files into each repo I created
+c> Practiced deleting a file from a repo
+d> I also created a Gist
+
+Later on, I went and downloaded what is the 'latest' version of GitHub for Windows 2.0. Then, I...
+a> Created more repos (folders)
+b> Learned to add files into these 
+c> Learned to sync between folders/files being listed on my home computer/and, the remote GitHub server directory 
+that is viewable inside of the web browser
+d> Learned to delete files/and, also, how to delete whole entire folder directories (even if they contain files inside)
